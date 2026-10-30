@@ -1,9 +1,9 @@
 ---
 name: filee
-description: 免费开源本地文件格式转换工具，拖拽即可离线转换 180+ 种格式（图片、PDF、Word、Excel、PPT、HWP、视频、音频、电子书、压缩包），不上传、无需安装 Office。
+description: Filee 是一个本地优先的文件格式转换工具（用于文档/表格/图片等互转），支持批量与命令行。
 ---
 # Filee
-免费开源本地文件格式转换工具，拖拽即可离线转换 180+ 种格式（图片、PDF、Word、Excel、PPT、HWP、视频、音频、电子书、压缩包），不上传、无需安装 Office。
+Filee 是一个本地优先的文件格式转换工具（用于文档/表格/图片等互转），支持批量与命令行。
 
 ## 来源
 - 上游：KnifeLemon/Filee

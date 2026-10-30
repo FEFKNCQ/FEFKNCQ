@@ -12,7 +12,7 @@
 | DiPlay | shihabal3amri/DiPlay | FEFKNCQ/DiPlay-CN | 安卓车机可用的第三方 CarPlay 接收器，支持有线/无线公测。 |
 | DLSS5-Swapper | rakanki911/DLSS5-Swapper | FEFKNCQ/DLSS5-Swapper-CN | 一键在游戏中安装、调校与还原 DLSS 5；内置 RenoDX、为无 DLSS 游戏准备的 DLSS... |
 | DroidDeck | Droid-Deck/DroidDeck | FEFKNCQ/DroidDeck-CN | 把 SteamOS 掌机体验带到安卓，桌面式游戏库与串流启动器。 |
-| Filee | KnifeLemon/Filee | FEFKNCQ/Filee-CN | 免费开源本地文件格式转换工具，拖拽即可离线转换 180+ 种格式（图片、PDF、Word、Excel... |
+| Filee | KnifeLemon/Filee | FEFKNCQ/Filee-CN | Filee 是一个本地优先的文件格式转换工具（用于文档/表格/图片等互转），支持批量与命令行。 |
 | folia-android | Timingyyds/folia-android | FEFKNCQ/folia-android-CN | Folia 音乐播放器 安卓版（个人移植非官方）。 |
 | folia-major | chthollyphile/folia-major | FEFKNCQ/folia-major-CN | 专注于绚丽歌词动画效果的本地音乐 / navidrome / 第三方多平台在线音乐播放器。 |
 | gbro-cover-design | pyang5166/gbro-cover-design | FEFKNCQ/gbro-cover-design-CN | 公众号/小红书封面提示词生成 skill：3:4 竖版、10 种构图风格、三轮提问、真人出镜人脸一致... |
