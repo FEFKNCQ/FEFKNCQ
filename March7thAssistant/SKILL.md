@@ -1,13 +1,17 @@
 ---
 name: march7thassistant
-description: 崩坏：星穹铁道全自动 三月七小助手。
+description: 崩坏：星穹铁道全自动 三月七小助手
 ---
 # March7thAssistant
-崩坏：星穹铁道全自动 三月七小助手。
+崩坏：星穹铁道全自动 三月七小助手
 
 ## 来源
 - 上游：moesnow/March7thAssistant
 - 镜像：FEFKNCQ/March7thAssistant-CN Releases（有（最新 v2026.10.16，已镜像））
+
+## 网盘分流
+- 夸克网盘：https://pan.quark.cn/s/18d9b9b665ee
+- 百度网盘：https://pan.baidu.com/s/16a6yJV-1_8V5b0scQlQm8w?pwd=6kpj
 
 ## 使用方式
 对AI说：帮我安装FEFKNCQ里的March7thAssistantskill

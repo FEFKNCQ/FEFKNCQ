@@ -9,6 +9,9 @@ AI 智能体控制中枢：可操控 WPS、MS Office、Zotero、Photoshop，内�
 - 上游：yb2460/harness-anything
 - 镜像：FEFKNCQ/harness-anything-CN Releases（无）
 
+## 网盘分流
+- 百度网盘：https://pan.baidu.com/share/init?surl=DxjpIcQuSArYQTKpbq7kEQ&pwd=aa80
+
 ## 使用方式
 对AI说：帮我安装FEFKNCQ里的harness-anythingskill
 （该上游无可用二进制 Release，AI 会改从源码 fork `FEFKNCQ/harness-anything-CN` 克隆并按项目文档部署）

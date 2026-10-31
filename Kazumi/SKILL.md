@@ -9,6 +9,9 @@ Kazumi 跨平台番剧聚合追番客户端：支持番剧搜索、多数据源�
 - 上游：Predidit/Kazumi
 - 镜像：FEFKNCQ/Kazumi-CN Releases（有（最新 2.4.2，9 个平台资产约 347MB））
 
+## 网盘分流
+- 百度网盘：https://pan.baidu.com/s/1bORdFpEjdrggsC1yk7KdDg?pwd=2bhs
+
 ## 使用方式
 对AI说：帮我安装FEFKNCQ里的Kazumiskill
 （AI 会从 `FEFKNCQ/Kazumi-CN` 的最新 Release 下载对应平台安装包，并给出安装/部署步骤）

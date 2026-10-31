@@ -9,6 +9,9 @@ Remotion 官方的 AI 智能体技能集（Agent Skills）：一组可直接复�
 - 上游：remotion-dev/skills
 - 镜像：FEFKNCQ/remotion-skills-CN Releases（无（release 无二进制资产，纯代码镜像））
 
+## 网盘分流
+（暂无网盘分流，请使用上方 Releases 镜像）
+
 ## 使用方式
 对AI说：帮我安装FEFKNCQ里的remotion-skillsskill
 （该上游无可用二进制 Release，AI 会改从源码 fork `FEFKNCQ/remotion-skills-CN` 克隆并按项目文档部署）

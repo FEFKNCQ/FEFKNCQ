@@ -9,6 +9,9 @@ description: 公众号/小红书封面提示词生成 skill：3:4 竖版、10 �
 - 上游：pyang5166/gbro-cover-design
 - 镜像：FEFKNCQ/gbro-cover-design-CN Releases（无）
 
+## 网盘分流
+- 百度网盘：https://pan.baidu.com/share/init?surl=xDQvwNxZpfet0xXEvqQTmw&pwd=p4bs
+
 ## 使用方式
 对AI说：帮我安装FEFKNCQ里的gbro-cover-designskill
 （该上游无可用二进制 Release，AI 会改从源码 fork `FEFKNCQ/gbro-cover-design-CN` 克隆并按项目文档部署）

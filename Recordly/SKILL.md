@@ -9,6 +9,9 @@ description: 无需剪辑技巧即可制作精美演示视频（支持 Mac / Win
 - 上游：webadderallorg/Recordly
 - 镜像：FEFKNCQ/Recordly-CN Releases（有（48 个 release，共 494 个资产））
 
+## 网盘分流
+- 百度网盘：https://pan.baidu.com/share/init?surl=5_LqdTFzPomE-SFdB9Ua7w&pwd=cn0x
+
 ## 使用方式
 对AI说：帮我安装FEFKNCQ里的Recordlyskill
 （AI 会从 `FEFKNCQ/Recordly-CN` 的最新 Release 下载对应平台安装包，并给出安装/部署步骤）

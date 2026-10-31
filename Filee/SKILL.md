@@ -9,6 +9,9 @@ Filee 是一个本地优先的文件格式转换工具（用于文档/表格/图
 - 上游：KnifeLemon/Filee
 - 镜像：FEFKNCQ/Filee-CN Releases（release v2.2.0 (13 assets, ~1GB)）
 
+## 网盘分流
+- 百度网盘：https://pan.baidu.com/share/init?surl=qmFLLsTVgyM6Ug-Yy38XLg&pwd=x8ti
+
 ## 使用方式
 对AI说：帮我安装FEFKNCQ里的Fileeskill
 （AI 会从 `FEFKNCQ/Filee-CN` 的最新 Release 下载对应平台安装包，并给出安装/部署步骤）

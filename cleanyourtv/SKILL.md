@@ -9,6 +9,9 @@ Android / Google TV 去广告与精简工具：通过 Wi-Fi 去广告、精简�
 - 上游：Gathin23/cleanyourtv
 - 镜像：FEFKNCQ/cleanyourtv-CN Releases（无（release 无二进制资产，纯代码镜像））
 
+## 网盘分流
+（暂无网盘分流，请使用上方 Releases 镜像）
+
 ## 使用方式
 对AI说：帮我安装FEFKNCQ里的cleanyourtvskill
 （该上游无可用二进制 Release，AI 会改从源码 fork `FEFKNCQ/cleanyourtv-CN` 克隆并按项目文档部署）

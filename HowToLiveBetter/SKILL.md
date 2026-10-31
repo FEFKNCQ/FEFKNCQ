@@ -9,6 +9,9 @@ description: 高性价比人生指南：长寿防病、急救、省钱理财、�
 - 上游：eternity4719/HowToLiveBetter
 - 镜像：FEFKNCQ/HowToLiveBetter-CN Releases（有（1 个 release，共 4 个资产））
 
+## 网盘分流
+- 百度网盘：https://pan.baidu.com/share/init?surl=fuw3yJ1Hf3OZjBD_q-CnyA&pwd=b55w
+
 ## 使用方式
 对AI说：帮我安装FEFKNCQ里的HowToLiveBetterskill
 （AI 会从 `FEFKNCQ/HowToLiveBetter-CN` 的最新 Release 下载对应平台安装包，并给出安装/部署步骤）

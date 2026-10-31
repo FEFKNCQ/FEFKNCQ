@@ -7,7 +7,10 @@ dsh-bili-whale-CN 镜像备份 · 国内下载慢可用夸克网盘
 
 ## 来源
 - 上游：Alterssss/dsh-bili-whale
-- 镜像：FEFKNCQ/dsh-bili-whale-CN Releases（有）
+- 镜像：FEFKNCQ/dsh-bili-whale-CN Releases（release v0.4.6 (1 asset, ~0.8MB)）
+
+## 网盘分流
+（暂无网盘分流，请使用上方 Releases 镜像）
 
 ## 使用方式
 对AI说：帮我安装FEFKNCQ里的dsh-bili-whaleskill

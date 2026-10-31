@@ -9,6 +9,9 @@ description: 基于 JavaScript 的网盘文件下载地址获取工具。基于�
 - 上游：hmjz100/LinkSwift
 - 镜像：FEFKNCQ/LinkSwift-CN Releases（有（64 个 release，共 71 个资产））
 
+## 网盘分流
+- 百度网盘：https://pan.baidu.com/share/init?surl=PVOGXxlHXpp057QWocAtVA&pwd=x5db
+
 ## 使用方式
 对AI说：帮我安装FEFKNCQ里的LinkSwiftskill
 （AI 会从 `FEFKNCQ/LinkSwift-CN` 的最新 Release 下载对应平台安装包，并给出安装/部署步骤）

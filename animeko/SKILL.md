@@ -9,6 +9,9 @@ description: 开源 anime 追番/看番客户端（Android / iOS / Windows / mac
 - 上游：open-ani/animeko
 - 镜像：FEFKNCQ/animeko-CN Releases（有（最新 v6.4.0，全平台约 2.3GB，已镜像））
 
+## 网盘分流
+- 百度网盘：https://pan.baidu.com/s/1pYx3SKsxTf4aAE4r4yi5uw?pwd=2vgc
+
 ## 使用方式
 对AI说：帮我安装FEFKNCQ里的animekoskill
 （AI 会从 `FEFKNCQ/animeko-CN` 的最新 Release 下载对应平台安装包，并给出安装/部署步骤）

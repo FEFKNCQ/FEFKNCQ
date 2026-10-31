@@ -9,6 +9,9 @@ Folia 音乐播放器 安卓版（个人移植非官方）。
 - 上游：Timingyyds/folia-android
 - 镜像：FEFKNCQ/folia-android-CN Releases（有（上游最新 v0.7.21 已镜像；另并存 v1.4.0 来源非当前上游，保留））
 
+## 网盘分流
+- 百度网盘：https://pan.baidu.com/share/init?surl=qrj7np2eyphy6yE-1RL5lw&pwd=qs4f
+
 ## 使用方式
 对AI说：帮我安装FEFKNCQ里的folia-androidskill
 （AI 会从 `FEFKNCQ/folia-android-CN` 的最新 Release 下载对应平台安装包，并给出安装/部署步骤）

@@ -9,6 +9,9 @@ Windows 桌面绒毯：可拖动折叠的毯子、真实图标扫帚、一键整
 - 上游：LongJingSU/desktop-rug
 - 镜像：FEFKNCQ/desktop-rug-CN Releases（无）
 
+## 网盘分流
+- 百度网盘：https://pan.baidu.com/share/init?surl=LfgUH31lyOkZcP39u2B7Fg&pwd=6uoo
+
 ## 使用方式
 对AI说：帮我安装FEFKNCQ里的desktop-rugskill
 （该上游无可用二进制 Release，AI 会改从源码 fork `FEFKNCQ/desktop-rug-CN` 克隆并按项目文档部署）

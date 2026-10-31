@@ -9,6 +9,9 @@ description: 用 React 以代码方式程序化生成视频。
 - 上游：remotion-dev/remotion
 - 镜像：FEFKNCQ/remotion-CN Releases（无（源码库，无二进制资产，已 fork 备份））
 
+## 网盘分流
+- 百度网盘：https://pan.baidu.com/share/init?surl=gk4FHTUqnWKWhtdB9zWsmg&pwd=qv1k
+
 ## 使用方式
 对AI说：帮我安装FEFKNCQ里的remotionskill
 （该上游无可用二进制 Release，AI 会改从源码 fork `FEFKNCQ/remotion-CN` 克隆并按项目文档部署）

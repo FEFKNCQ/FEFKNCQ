@@ -7,7 +7,7 @@
 
 | 技能(skill) | 对应项目 | fork Release | 说明 |
 |---|---|---|---|
-| anything2explainer | Vincentwei1021/anything2explainer | FEFKNCQ/anything2explainer-CN | "给主题、出视频"的 AI 技能：把任意话题变成纯代码绘制的动态讲解视频，含 TTS 配音、字幕和章... |
+| anything2explainer | Vincentwei1021/anything2explainer | FEFKNCQ/anything2explainer-CN | 给主题、出视频的 AI 技能：把任意话题变成纯代码绘制的动态讲解视频，含 TTS 配音、字幕和章节进... |
 | desktop-rug | LongJingSU/desktop-rug | FEFKNCQ/desktop-rug-CN | Windows 桌面绒毯：可拖动折叠的毯子、真实图标扫帚、一键整理和多种地板风格。附中文 READM... |
 | DiPlay | shihabal3amri/DiPlay | FEFKNCQ/DiPlay-CN | 安卓车机可用的第三方 CarPlay 接收器，支持有线/无线公测。 |
 | DLSS5-Swapper | rakanki911/DLSS5-Swapper | FEFKNCQ/DLSS5-Swapper-CN | 一键在游戏中安装、调校与还原 DLSS 5；内置 RenoDX、为无 DLSS 游戏准备的 DLSS... |
@@ -41,8 +41,8 @@
 | ok-wuthering-waves | ok-oldking/ok-wuthering-waves | FEFKNCQ/ok-wuthering-waves-CN | ok-wuthering-waves（鸣潮版 OK 工具）跨平台游戏辅助工具：自动拾取、地图资源标记... |
 | greasyfork | greasyfork-org/greasyfork | FEFKNCQ/greasyfork-CN | GreasyFork 用户脚本托管平台源码（Ruby on Rails）：提供用户脚本发布、搜索与版... |
 | better-genshin-impact | babalae/better-genshin-impact | FEFKNCQ/better-genshin-impact-CN | BetterGI（better-genshin-impact）原神辅助工具：自动拾取、地图资源标记、... |
-| March7thAssistant | moesnow/March7thAssistant | FEFKNCQ/March7thAssistant-CN | 崩坏：星穹铁道全自动 三月七小助手。 |
-| ziwei-doushu | Renhuai123/ziwei-doushu | FEFKNCQ/ziwei-doushu-CN | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据... |
+| March7thAssistant | moesnow/March7thAssistant | FEFKNCQ/March7thAssistant-CN | 崩坏：星穹铁道全自动 三月七小助手 |
+| ziwei-doushu | Renhuai123/ziwei-doushu | FEFKNCQ/ziwei-doushu-CN | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 |
 | dsh-bili-whale | Alterssss/dsh-bili-whale | FEFKNCQ/dsh-bili-whale-CN | dsh-bili-whale-CN 镜像备份 · 国内下载慢可用夸克网盘 |
 
 ## 免责声明

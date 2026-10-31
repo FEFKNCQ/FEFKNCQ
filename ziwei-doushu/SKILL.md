@@ -1,13 +1,17 @@
 ---
 name: ziwei-doushu
-description: 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据。
+description: 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
 ---
 # ziwei-doushu
-紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据。
+紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
 
 ## 来源
 - 上游：Renhuai123/ziwei-doushu
 - 镜像：FEFKNCQ/ziwei-doushu-CN Releases（有（最新 v4.0-13d，已镜像 81 资产））
+
+## 网盘分流
+- 夸克网盘：https://pan.quark.cn/s/1fcc39314b51
+- 百度网盘：https://pan.baidu.com/s/1F9hcro5-5NLhhCAceMCeZg?pwd=i95r
 
 ## 使用方式
 对AI说：帮我安装FEFKNCQ里的ziwei-doushuskill

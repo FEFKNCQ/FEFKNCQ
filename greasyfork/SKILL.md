@@ -9,6 +9,9 @@ GreasyFork 用户脚本托管平台源码（Ruby on Rails）：提供用户脚�
 - 上游：greasyfork-org/greasyfork
 - 镜像：FEFKNCQ/greasyfork-CN Releases（无（源码仓库，无 release/二进制资产））
 
+## 网盘分流
+（暂无网盘分流，请使用上方 Releases 镜像）
+
 ## 使用方式
 对AI说：帮我安装FEFKNCQ里的greasyforkskill
 （该上游无可用二进制 Release，AI 会改从源码 fork `FEFKNCQ/greasyfork-CN` 克隆并按项目文档部署）

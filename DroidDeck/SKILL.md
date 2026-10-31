@@ -9,6 +9,9 @@ description: 把 SteamOS 掌机体验带到安卓，桌面式游戏库与串流�
 - 上游：Droid-Deck/DroidDeck
 - 镜像：FEFKNCQ/DroidDeck-CN Releases（有（17 个 release，共 51 个资产））
 
+## 网盘分流
+- 百度网盘：https://pan.baidu.com/share/init?surl=BwmNE6iCi9_8c-QjZKGFMA&pwd=ey2u
+
 ## 使用方式
 对AI说：帮我安装FEFKNCQ里的DroidDeckskill
 （AI 会从 `FEFKNCQ/DroidDeck-CN` 的最新 Release 下载对应平台安装包，并给出安装/部署步骤）

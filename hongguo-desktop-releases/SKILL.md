@@ -9,6 +9,9 @@ description: 红果短剧 Windows/Android TV 桌面版
 - 上游：waligoraamodio288-rgb/hongguo-desktop-releases
 - 镜像：FEFKNCQ/hongguo-desktop-releases-CN Releases（有）
 
+## 网盘分流
+- 百度网盘：https://pan.baidu.com/share/init?surl=M2idkJUVo33ui-JArWvppA&pwd=zaw5
+
 ## 使用方式
 对AI说：帮我安装FEFKNCQ里的hongguo-desktop-releasesskill
 （AI 会从 `FEFKNCQ/hongguo-desktop-releases-CN` 的最新 Release 下载对应平台安装包，并给出安装/部署步骤）

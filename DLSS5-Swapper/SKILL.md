@@ -9,9 +9,12 @@ description: 一键在游戏中安装、调校与还原 DLSS 5；内置 RenoDX�
 - 上游：rakanki911/DLSS5-Swapper
 - 镜像：FEFKNCQ/DLSS5-Swapper-CN Releases（（上游不可达））
 
+## 网盘分流
+- 百度网盘：https://pan.baidu.com/share/init?surl=143XVuMN4NF8YUSU8Vv9xw&pwd=u9n3
+
 ## 使用方式
 对AI说：帮我安装FEFKNCQ里的DLSS5-Swapperskill
-（该上游无可用二进制 Release，AI 会改从源码 fork `FEFKNCQ/DLSS5-Swapper-CN` 克隆并按项目文档部署）
+（AI 会从 `FEFKNCQ/DLSS5-Swapper-CN` 的最新 Release 下载对应平台安装包，并给出安装/部署步骤）
 
 ## 免责声明
 本 skill 的二进制来自上游开源项目并镜像至 FEFKNCQ 的 fork Releases，版权归原作者所有，仅供学习研究使用。

@@ -9,6 +9,9 @@ description: 一分钟搭建影视站，支持 Docker 等部署方式。
 - 上游：LibreSpark/LibreTV
 - 镜像：FEFKNCQ/LibreTV-CN Releases（有（最新 v2.21.1，已镜像））
 
+## 网盘分流
+- 百度网盘：https://pan.baidu.com/share/init?surl=y6FTCIIwNWFeyxK50Klxgw&pwd=38c5
+
 ## 使用方式
 对AI说：帮我安装FEFKNCQ里的LibreTVskill
 （AI 会从 `FEFKNCQ/LibreTV-CN` 的最新 Release 下载对应平台安装包，并给出安装/部署步骤）

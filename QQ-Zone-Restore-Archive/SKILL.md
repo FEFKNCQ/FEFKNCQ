@@ -9,6 +9,9 @@ description: 跨平台 QQ 空间恢复归档工具：从仍可访问的动态与
 - 上游：xiaosu19/QQ-Zone-Restore-Archive
 - 镜像：FEFKNCQ/QQ-Zone-Restore-Archive-CN Releases（有（3 个 release，共 27 个资产））
 
+## 网盘分流
+- 百度网盘：https://pan.baidu.com/share/init?surl=Hs0OBcDLmmTSz9aTeSG4tQ&pwd=ow5d
+
 ## 使用方式
 对AI说：帮我安装FEFKNCQ里的QQ-Zone-Restore-Archiveskill
 （AI 会从 `FEFKNCQ/QQ-Zone-Restore-Archive-CN` 的最新 Release 下载对应平台安装包，并给出安装/部署步骤）

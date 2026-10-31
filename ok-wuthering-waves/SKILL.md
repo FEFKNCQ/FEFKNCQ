@@ -9,6 +9,9 @@ ok-wuthering-waves（鸣潮版 OK 工具）跨平台游戏辅助工具：自动�
 - 上游：ok-oldking/ok-wuthering-waves
 - 镜像：FEFKNCQ/ok-wuthering-waves-CN Releases（有（最新 v3.7.11，4 个平台资产约 925MB））
 
+## 网盘分流
+- 百度网盘：https://pan.baidu.com/s/19H0lER8IYgfeJB1908q7SA?pwd=fafd
+
 ## 使用方式
 对AI说：帮我安装FEFKNCQ里的ok-wuthering-wavesskill
 （AI 会从 `FEFKNCQ/ok-wuthering-waves-CN` 的最新 Release 下载对应平台安装包，并给出安装/部署步骤）
