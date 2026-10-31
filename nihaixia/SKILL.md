@@ -7,7 +7,7 @@ description: 倪海厦中医 AI Agent 技能：蒸馏倪师伤寒论/金匮/黄�
 
 ## 来源
 - 上游：jangviktor-web/nihaixia
-- 镜像：FEFKNCQ/nihaixia-CN Releases（有）
+- 镜像：FEFKNCQ/nihaixia-CN Releases（v2.3.1：含 2 款 Android APK + 2.5MB zip，约 108MB）
 
 ## 使用方式
 对AI说：帮我安装FEFKNCQ里的nihaixiaskill
