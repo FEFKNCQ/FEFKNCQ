@@ -48,3 +48,4 @@
 ## 免责声明
 - 各 skill 的二进制均来自其上游开源项目并镜像至 `FEFKNCQ` 的 fork Releases，版权归原作者所有，仅供学习研究。
 - ⚠️ 游戏辅助类（better-genshin-impact / ok-wuthering-waves / March7thAssistant 等）可能违反游戏用户协议、存在封号风险，使用后果自负。
+| nihaixia | jangviktor-web/nihaixia | FEFKNCQ/nihaixia-CN | 倪海厦中医 AI Agent 技能：蒸馏倪师伤寒论/金匮/黄帝内经/神农本草经/针灸，含六经/八纲辨... |
