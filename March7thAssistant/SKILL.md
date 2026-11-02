@@ -7,7 +7,7 @@ description: 崩坏：星穹铁道全自动 三月七小助手
 
 ## 来源
 - 上游：moesnow/March7thAssistant
-- 镜像：FEFKNCQ/March7thAssistant-CN Releases（有（最新 v2026.10.16，已镜像））
+- 镜像：FEFKNCQ/March7thAssistant-CN Releases（v2026.10.31（已镜像至 fork Releases））
 
 ## 网盘分流
 - 夸克网盘：https://pan.quark.cn/s/18d9b9b665ee
