@@ -52,3 +52,4 @@
 | goutoujunshi | shengjidaguai-china/goutoujunshi | FEFKNCQ/goutoujunshi-CN | Codex 恋爱/关系军师 AI 技能：先接住情绪、再分析关系并给出可执行策略，内置心理、法律、社会... |
 | ZenlessZoneZero-OneDragon | OneDragon-Anything/ZenlessZoneZero-OneDragon | FEFKNCQ/ZenlessZoneZero-OneDragon-CN | 绝区零 一条龙自动化：全自动、自动闪避、自动每日、自动空洞，支持手柄。GPL-3.0。游戏辅助类，存... |
 | KioskShell | JungleLu/KioskShell | FEFKNCQ/KioskShell-CN | 儿童桌面 KioskShell：把安卓电视/盒子变成只能看选定视频 App 的锁屏设备，双主题、多选... |
+| house-plan-designer | ZWD11/house-plan-designer | FEFKNCQ/house-plan-designer-CN | 户型图设计器 AI 技能：一张户型图+一句话，Agent 还原成可 2D/3D 直接设计的装修设计器... |
