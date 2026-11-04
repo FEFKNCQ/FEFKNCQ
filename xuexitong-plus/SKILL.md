@@ -10,7 +10,8 @@ description: 学习通PLUS：超星学习通 Windows 桌面客户端（基于 Sa
 - 镜像：FEFKNCQ/xuexitong-plus Releases（v1.1.9（已镜像至 FEFKNCQ/xuexitong-plus Releases））
 
 ## 网盘分流
-（暂无网盘分流，请使用上方 Releases 镜像）
+- 夸克网盘：https://pan.quark.cn/s/675d99eeaa3a
+- 百度网盘：https://pan.baidu.com/s/1NODZh4V8D01CowfqxFDv9w?pwd=punj
 
 ## 使用方式
 对AI说：帮我安装FEFKNCQ里的xuexitong-plusskill
