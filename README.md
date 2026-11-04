@@ -54,3 +54,4 @@
 | KioskShell | JungleLu/KioskShell | FEFKNCQ/KioskShell-CN | 儿童桌面 KioskShell：把安卓电视/盒子变成只能看选定视频 App 的锁屏设备，双主题、多选... |
 | house-plan-designer | ZWD11/house-plan-designer | FEFKNCQ/house-plan-designer-CN | 户型图设计器 AI 技能：一张户型图+一句话，Agent 还原成可 2D/3D 直接设计的装修设计器... |
 | Pavise-Game | dulaiduwang003/Pavise-Game | FEFKNCQ/Pavise-Game-CN | 开源 Windows 游戏性能/资源优化器：抑制后台进程、给游戏独占 CPU 核心、将设备中断移出游... |
+| xuexitong-plus | Kerxs/XueXiTong-Plus | FEFKNCQ/xuexitong-plus | 学习通PLUS：超星学习通 Windows 桌面客户端（基于 Samueli924/chaoxing... |
