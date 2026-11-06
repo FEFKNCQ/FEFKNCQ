@@ -7,7 +7,7 @@ description: 学习通PLUS：超星学习通 Windows 桌面客户端（基于 Sa
 
 ## 来源
 - 上游：Kerxs/XueXiTong-Plus
-- 镜像：FEFKNCQ/xuexitong-plus Releases（v1.2.1（已镜像至 fork Releases））
+- 镜像：FEFKNCQ/xuexitong-plus Releases（v1.2.9（已镜像至 fork Releases））
 
 ## 网盘分流
 - 夸克网盘：https://pan.quark.cn/s/675d99eeaa3a
