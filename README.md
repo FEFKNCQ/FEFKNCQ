@@ -56,3 +56,4 @@
 | Pavise-Game | dulaiduwang003/Pavise-Game | FEFKNCQ/Pavise-Game-CN | 开源 Windows 游戏性能/资源优化器：抑制后台进程、给游戏独占 CPU 核心、将设备中断移出游... |
 | xuexitong-plus | Kerxs/XueXiTong-Plus | FEFKNCQ/xuexitong-plus | 学习通PLUS：超星学习通 Windows 桌面客户端（基于 Samueli924/chaoxing... |
 | xindong | WizzenH/xindong | FEFKNCQ/xindong-CN | 上班鼓励器：人要学会哄着自己上班（薪资激励 / 摸鱼鼓励桌面小工具）。MIT 许可证。 |
+| NMDXT | FEFKNCQ/NMDXT | FEFKNCQ/NMDXT | 牛马的薪跳（原 xindong 上班鼓励器重命名）：桌面悬浮窗 + 安卓小组件，实时显示今日已赚/每... |
