@@ -7,10 +7,11 @@ description: 儿童桌面 KioskShell：把安卓电视/盒子变成只能看选�
 
 ## 来源
 - 上游：JungleLu/KioskShell
-- 镜像：FEFKNCQ/KioskShell-CN Releases（v1.29（已镜像 APK 约 3.2MB 至 fork Releases））
+- 镜像：FEFKNCQ/KioskShell-CN Releases（v1.38（已镜像至 fork Releases））
 
 ## 网盘分流
-（暂无网盘分流，请使用上方 Releases 镜像）
+- 夸克网盘：https://pan.quark.cn/s/d2399773b810
+- 百度网盘：https://pan.baidu.com/s/1LHt8S1pgsPafR4_wXQEslA?pwd=m5a1
 
 ## 使用方式
 对AI说：帮我安装FEFKNCQ里的KioskShellskill
