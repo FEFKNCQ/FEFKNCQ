@@ -59,3 +59,4 @@
 | NMDXT | FEFKNCQ/NMDXT | FEFKNCQ/NMDXT | 牛马的薪跳（原 xindong 上班鼓励器重命名）：桌面悬浮窗 + 安卓小组件，实时显示今日已赚/每... |
 | StudyOnTV | chadyi/StudyOnTV | FEFKNCQ/StudyOnTV-CN | StudyOnTV（题老大 TV）— 开源 Android TV 学习应用：孩子通过答题解锁屏幕时间... |
 | Desktop-icon-Dance | jiafufang63-cpu/DesktopDance | FEFKNCQ/Desktop-icon-Dance-CN | 桌面图标跳舞（DesktopDance）— 让桌面图标站起来运球跳舞的趣味小工具：跟着音乐律动，四种... |
+| Auto-WOW | DKCMJD51/moshou（Auto-WOW 迭代版） | FEFKNCQ/Auto-WOW（独立仓库） | 魔兽世界无限服自动建号 Agent Skill：用户指定不可修改项与姓名，可改项默认/随机；真实桌面 main 操作，自动循环到成功。优先夸克网盘：https://pan.quark.cn/s/e31630eb502f |
